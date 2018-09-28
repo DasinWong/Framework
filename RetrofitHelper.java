@@ -1,5 +1,3 @@
-package com.example.wdx.demo;
-
 import org.json.JSONObject;
 
 import java.io.File;
