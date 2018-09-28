@@ -1,5 +1,3 @@
-package com.example.wdx.demo;
-
 import android.webkit.MimeTypeMap;
 
 import java.io.File;
